@@ -25,35 +25,29 @@
 
   ## 🛠️ My Skills
 -------------------
-### Programming languages:
+### Frontend Development:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
-![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
-![Static Badge](https://img.shields.io/badge/Kotlin-green)https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+
 
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>MUI</title><path d="M20.229 15.793a.666.666 0 0 0 .244-.243.666.666 0 0 0 .09-.333l.012-3.858a.666.666 0 0 1 .09-.333.666.666 0 0 1 .245-.243L23 9.58a.667.667 0 0 1 .333-.088.667.667 0 0 1 .333.09.667.667 0 0 1 .244.243.666.666 0 0 1 .089.333v7.014a.667.667 0 0 1-.335.578l-7.893 4.534a.666.666 0 0 1-.662 0l-6.194-3.542a.667.667 0 0 1-.246-.244.667.667 0 0 1-.09-.335v-3.537c0-.004.004-.006.008-.004s.008 0 .008-.005v-.004c0-.003.002-.005.004-.007l5.102-2.93c.004-.003.002-.01-.003-.01a.005.005 0 0 1-.004-.002.005.005 0 0 1-.001-.004l.01-3.467a.667.667 0 0 0-.333-.58.667.667 0 0 0-.667 0L8.912 9.799a.667.667 0 0 1-.665 0l-3.804-2.19a.667.667 0 0 0-.999.577v6.267a.667.667 0 0 1-.332.577.666.666 0 0 1-.332.09.667.667 0 0 1-.333-.088L.336 13.825a.667.667 0 0 1-.246-.244.667.667 0 0 1-.09-.336L.019 2.292a.667.667 0 0 1 .998-.577l7.23 4.153a.667.667 0 0 0 .665 0l7.228-4.153a.666.666 0 0 1 .333-.088.666.666 0 0 1 .333.09.667.667 0 0 1 .244.244.667.667 0 0 1 .088.333V13.25c0 .117-.03.232-.089.334a.667.667 0 0 1-.245.244l-3.785 2.18a.667.667 0 0 0-.245.245.666.666 0 0 0-.089.334.667.667 0 0 0 .09.334.666.666 0 0 0 .247.244l2.088 1.189a.67.67 0 0 0 .33.087.667.667 0 0 0 .332-.089l4.457-2.56Zm.438-9.828a.666.666 0 0 0 .09.335.666.666 0 0 0 .248.244.667.667 0 0 0 .67-.008l2.001-1.2a.666.666 0 0 0 .237-.243.667.667 0 0 0 .087-.329V2.32a.667.667 0 0 0-.091-.335.667.667 0 0 0-.584-.33.667.667 0 0 0-.334.094l-2 1.2a.666.666 0 0 0-.238.243.668.668 0 0 0-.086.329v2.445Z"/></svg>
+![Static Badge](https://img.shields.io/badge/Material-white?logo=mui&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Ant%20Design-white?logo=antdesign&logoColor=1677FF&labelColor=white&color=FA8C16)
+![Static Badge](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=7952B3&labelColor=white&color=7952B3)
+![Static Badge](https://img.shields.io/badge/React-white?logo=react&logoColor=61DAFB&labelColor=white&color=61DAFB)
 
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt="fdfdf" src=""></a>
-JavaScript	JavaScript	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-JavaScript	JavaScript	https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
-
-### Frontend Development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?logo=React)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?logo=Material-UI)
-
-![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032&labelColor=white&color=F05032)
+![HTML5](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=E34F26&labelColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=1572B6&labelColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=F7DF1E&labelColor=white&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=3178C6&labelColor=white&color=3178C6)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-white?logo=tailwindcss&logoColor=38BDF8&labelColor=white&color=38BDF8)
 
 
 ### Backend Development:
 &emsp;
-![Express](https://img.shields.io/badge/-Express-000?logo=Express)
+![.NET](https://img.shields.io/badge/.NET-white?logo=dotnet&logoColor=512BD4&labelColor=white&color=512BD4)
+
 
 ### Misc Tools:
 &emsp;
@@ -64,32 +58,12 @@ JavaScript	JavaScript	https://img.shields.io/badge/JavaScript-323330?style=flat&
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
 
-### Services & Frameworks: 
-&emsp;
-![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
-
-### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-
-
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-
-
 
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
 	# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
@@ -102,5 +76,6 @@ JavaScript	JavaScript	https://img.shields.io/badge/JavaScript-323330?style=flat&
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://www.typescript.com/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000&style=flat"></a>
+
 
 </p>
