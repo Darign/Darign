@@ -21,6 +21,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
+Técnico superior en análisis de sistemas. Especializado en frontend.
+Actualmente aprendiendo tecnologías de backend y desarrola
 
 
   ## 🛠️ My Skills
