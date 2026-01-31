@@ -5,24 +5,25 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Mi nombre es Darío</summary>
+    <summary><h1 style="display: inline-block">Desarrollador front-end</summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
+<!--
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Desarrollador front-end</h2></summary>
   </ul>
 </div>
+-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-Técnico superior en análisis de sistemas. Especializado en frontend.
-Actualmente aprendiendo tecnologías de backend y desarrola
+Mi nombre es Darío, soy Técnico superior en análisis de sistemas, enfocado en frontend.
 
 
   ## 🛠️ My Skills
