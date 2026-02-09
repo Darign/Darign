@@ -29,7 +29,7 @@ Mi nombre es Darío, soy técnico superior en análisis de sistemas, enfocado en
   ## 🛠️ My Skills
 -------------------
 ### Frontend Development:
-&emsp;
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=F7DF1E&labelColor=000000&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=3178C6&labelColor=white&color=3178C6)
 
@@ -44,7 +44,7 @@ Mi nombre es Darío, soy técnico superior en análisis de sistemas, enfocado en
 ![CSS3](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=1572B6&labelColor=white&color=1572B6)
 
 ### Backend Development:
-&emsp;
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-white?logo=dotnet&logoColor=512BD4&labelColor=white&color=512BD4)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?logo=swagger&logoColor=000000&labelColor=85EA2D&color=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=4479A1&labelColor=white&color=4479A1)
@@ -52,7 +52,7 @@ Mi nombre es Darío, soy técnico superior en análisis de sistemas, enfocado en
 
 
 ### Herramientas y entornos de desarrollo:
-&emsp;
+
 ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032&labelColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-white?logo=visualstudio&logoColor=5C2D91&labelColor=white&color=5C2D91)
