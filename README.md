@@ -23,7 +23,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
-Mi nombre es Darío, soy Técnico superior en análisis de sistemas, enfocado en frontend.
+Mi nombre es Darío, soy técnico superior en análisis de sistemas, enfocado en frontend.
 
 
   ## 🛠️ My Skills
